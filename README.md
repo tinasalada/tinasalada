@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋
 
 
-**mksalada/mksalada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tinasalada/tinasalada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-![MK Salada Profile](https://komarev.com/ghpvc/?username=mksalada)
-![GitHub followers](https://img.shields.io/github/followers/mksalada?label=Follow&style=social)
+![MK Salada Profile](https://komarev.com/ghpvc/?username=tinasalada)
+![GitHub followers](https://img.shields.io/github/followers/tinasalada?label=Follow&style=social)
 
 - 🌱 **Currently Learning:** Discord.js & Discord.py (Yeah, I'm making Discord bots^^)
 <!-- - 🥅 **2021 Goals:** Finish CS50W -->
 - 📧 Connect with me via [email][email]
 
 <!-- definitions -->
-[email]: mailto:salada4299@gmail.com
+[email]: mailto:mekuhzwhx@relay.firefox.com
