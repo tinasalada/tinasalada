@@ -19,9 +19,12 @@ Here are some ideas to get you started:
 ![MK Salada Profile](https://komarev.com/ghpvc/?username=tinasalada)
 ![GitHub followers](https://img.shields.io/github/followers/tinasalada?label=Follow&style=social)
 
-- 🌱 **Currently Learning:** Discord.js & Discord.py (Yeah, I'm making Discord bots^^)
+- 🌱 **Currently Learning:**
+  + Discord.js & Discord.py (Yeah, I'm making Discord bots^^)
+  + Hugo (Checkout my new [Hugo website][website])
 <!-- - 🥅 **2021 Goals:** Finish CS50W -->
 - 📧 Connect with me via [email][email]
 
 <!-- definitions -->
 [email]: mailto:x9jrimkt7@mozmail.com
+[website]: https://tinasalada.tk
