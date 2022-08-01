@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 📧 Connect with me via [email][email]
 
 <!-- definitions -->
-[email]: mailto:mekuhzwhx@relay.firefox.com
+[email]: mailto:x9jrimkt7@mozmail.com
